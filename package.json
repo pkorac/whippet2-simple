@@ -1,0 +1,16 @@
+{
+  "name": "whippet2",
+  "version": "1.0.0",
+  "description": "Simple static blog site generator.",
+  "main": "generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "front-matter": "^4.0.2",
+    "glob": "^10.3.10",
+    "marked": "^11.0.0"
+  }
+}
